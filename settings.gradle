@@ -1,0 +1,3 @@
+rootProject.name='KkangSsam'
+include ':app'
+include ':app:part2'
