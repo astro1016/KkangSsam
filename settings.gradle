@@ -1,3 +1,4 @@
 rootProject.name='KkangSsam'
 include ':app'
 include ':app:part2_3'
+include ':app:part2_4'
